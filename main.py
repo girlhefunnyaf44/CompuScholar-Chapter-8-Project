@@ -1,3 +1,5 @@
+""" Pig Latin Translator """
+
 size = 0
 
 # Here I made a bunch of temp variables to use for the while loop.

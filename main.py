@@ -1,4 +1,4 @@
-""" Pig Latin Translator """
+""" Pig Latin | Translator """
 
 size = 0
 

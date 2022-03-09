@@ -34,3 +34,5 @@ for word in sentenceChoppa:
     print(word[2:] + word[0:2] + 'ay')
   else:
     print(word[1:] + word[0:1] + 'ay')
+
+""" Don't forget to switch up sum variable names and change it up a bit. """

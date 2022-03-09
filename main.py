@@ -1,6 +1,6 @@
 size = 0
 
-""" Here I made a bunch of temp variables to use for the while loop. """ 
+# Here I made a bunch of temp variables to use for the while loop.
 
 tempVariable1 = 1 
 tempVariable2 = 2
